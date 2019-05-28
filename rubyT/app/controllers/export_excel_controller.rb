@@ -1,0 +1,2 @@
+class ExportExcelController < ApplicationController
+end

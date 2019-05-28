@@ -1,0 +1,2 @@
+class ImportExcelController < ApplicationController
+end
